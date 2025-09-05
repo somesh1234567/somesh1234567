@@ -21,11 +21,9 @@
 
 Here are some **real-world problems** I work on regularly:  
 
-- 🏗️ Designing **GitOps workflows** with **ArgoCD ApplicationSets** to manage 20+ clusters across environments  
-- 📦 Building **scalable Helm charts** for microservices with reusable values (cluster-level & customer-level overrides)  
+- 🏗️ Designing **GitOps workflows** with **ArgoCD ApplicationSets** to manage serveral clusters across environments   
 - 🔒 Implementing **NetworkPolicies & Calico GlobalNetworkPolicies** for multi-tenant clusters without breaking apps  
-- 🌐 Troubleshooting **VNet peering, Private Link Services & DNS resolution** across Azure subscriptions  
-- 🚀 Running **vcluster setups** on AKS to isolate workloads and test app deployments faster  
+- 🌐 Troubleshooting **VNet peering, Private Link Services & DNS resolution** across Azure subscriptions    
 - ⚙️ Automating **cluster bootstrap** with Terraform + Bicep, including custom DNS & RBAC mappings  
 - 🔍 Debugging tricky issues like **stuck Kubernetes Jobs due to Finalizers** or Helm chart version mismatches  
 
