@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Somesh</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud Native Enthusiast | AI Curious</h3>
+<h3 align="center">🚀 DevOps Engineer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ED573&center=true&vCenter=true&width=600&lines=Automating+the+world%2C+one+pipeline+at+a+time;Cloud+%7C+Kubernetes+%7C+GitOps;Exploring+AI+Agents+for+DevOps" alt="Typing SVG" />
@@ -33,37 +33,21 @@ Here are some **real-world problems** I work on regularly:
 
 ## 🛠️ Toolbox  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,docker,helm,argo,terraform,jenkins,githubactions,bash,python,git,linux&perline=7" />
+### ☁️ Cloud
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/>
 </p>
 
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=someshpanigrahi&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshpanigrahi&layout=compact&theme=tokyonight" alt="langs" height="180"/>
+### 🛠️ DevOps & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,jenkins,githubactions&perline=7" />
+  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" height="40" width="40" alt="ArgoCD"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=someshpanigrahi&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="streak" />
-</p>
-
----
-
-## 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=someshpanigrahi&theme=onedark&column=6&margin-w=8&margin-h=8" alt="trophies"/>
-</p>
-
----
-
-## 📈 Recent Activity  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=someshpanigrahi&theme=github-compact" alt="activity-graph"/>
+### 🖥️ Programming & Scripting
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bash,python,git,linux&perline=7" />
 </p>
 
 ---
